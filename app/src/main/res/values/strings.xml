@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">WordBarFist</string>
+
+
+    <string-array name="voice_array">
+        <item name="l">柳</item>
+        <item name="p">邊</item>
+        <item name="k">求</item>
+        <item name="kh">去</item>
+        <item name="t">地</item>
+        <item name="ph">頗</item>
+        <item name="th">他</item>
+        <item name="ch">曾</item>
+        <item name="j">入</item>
+        <item name="s">時</item>
+        <item name="i">英</item>
+        <item name="b">門</item>
+        <item name="g">語</item>
+        <item name="chh">出</item>
+        <item name="h">喜</item>
+    </string-array>
+
+    <string-array name="rhyme_array">
+        <item name="un">君</item>
+        <item name="ian">堅</item>
+        <item name="im">金</item>
+        <item name="ui">規</item>
+        <item name="e">嘉</item>
+
+        <item name="an">干</item>
+        <item name="oag">公</item>
+        <item name="oai">乖</item>
+        <item name="ang">經</item>
+        <item name="can">觀</item>
+
+        <item name="o_">沽</item>
+        <item name="iau">嬌</item>
+        <item name="i">槴</item>
+        <item name="iong">恭</item>
+        <item name="o">高</item>
+
+        <item name="ai">皆</item>
+        <item name="in">巾</item>
+        <item name="iang">姜</item>
+        <item name="an">甘</item>
+        <item name="oa">瓜</item>
+
+        <item name="ang">江</item>
+        <item name="iam">兼</item>
+        <item name="au">交</item>
+        <item name="ia">迦</item>
+        <item name="oe">檜</item>
+
+        <item name="an">堅</item>
+        <item name="u">龜</item>
+        <item name="a">膠</item>
+        <item name="i">居</item>
+        <item name="iu">丩</item>
+
+        <item name="en">更</item>
+        <item name="ng">褌</item>
+        <item name="io">茄</item>
+        <item name="iuo">薑</item>
+        <item name="oan">官</item>
+
+        <item name="on">姑</item>
+        <item name="oang">光</item>
+        <item name="m">姆</item>
+        <item name="oain">麋</item>
+        <item name="ain">閒</item>
+
+        <item name="iaun">嘄</item>
+        <item name="om">箴</item>
+        <item name="aun">爻</item>
+        <item name="oain">驚</item>
+        <item name="uin">關</item>
+
+    </string-array>
+    <string name="rhyme1">陰平</string>
+    <string name="rhyme2">上</string>
+    <string name="rhyme3">陰去</string>
+    <string name="rhyme4">陰入</string>
+    <string name="rhyme5">陽平</string>
+    <string name="rhyme6">陽去</string>
+    <string name="rhyme7">陽入</string>
+
+    <string name="lun">縮</string>
+    <string name="pun">分</string>
+    <string name="kun">軍</string>
+    <string name="khun">坤</string>
+    <string name="tun">盹</string>
+    <string name="phun">奔</string>
+    <string name="thun">吞</string>
+    <string name="tsun">尊</string>
+    <string name="jun"> </string>
+    <string name="gun"> </string>
+    <string name="siun">孫</string>
+    <string name="uun">溫</string>
+    <string name="bun">捫</string>
+    <string name="cihun">春</string>
+    <string name="hun">昏</string>
+
+    <string name="content_lun">頭縮收斂使小</string>
+    <string name="content_pun">分開也</string>
+    <string name="content_kun">萬兩千五百人為軍</string>
+    <string name="content_khun">掛名地道</string>
+    <string name="content_tun">目藏也小睡</string>
+    <string name="content_phun">戰敗疾走</string>
+    <string name="content_thun">煙也餐也又滅也</string>
+    <string name="content_tsun">高也重也貴也</string>
+    <string name="content_jun"> </string>
+    <string name="content_gun"> </string>
+    <string name="content_siun">子之子曰孫</string>
+    <string name="content_uun">柔也暖也和厚又姓</string>
+    <string name="content_bun">摸也</string>
+    <string name="content_cihun">四時之首</string>
+    <string name="content_hun">目冥暗也</string>
+
+
+
+    <string-array name="rhyme_eight_un">
+        <item>君</item>
+        <item>滾</item>
+        <item>棍</item>
+        <item>骨</item>
+        <item>群</item>
+        <item>郡</item>
+        <item>滑</item>
+    </string-array>
+
+</resources>
